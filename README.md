@@ -1,4 +1,4 @@
-![Screenshot97](https://github.com/Birrhamm/lab1_web/assets/115520530/9cfc2e27-4613-466d-8aee-28a541ccf7c2)# Langkah Langkah praktikum
+# Langkah Langkah praktikum
 
 - Pertama taman membuat file dasar terlebih dahulu dengan menggunakan html yang ada pada vscode 
 
@@ -40,7 +40,7 @@
 
 - Hasil dari menyisipkan gambar yang telah saya lakukan tadi pada halaman web yang telah kita buat tadi hasil nya seperti ini
 
-![gambar1](gambar/Screenshot91.png)
+![gambar1](gambar/Screenshot93.png)
 
 - Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
 
