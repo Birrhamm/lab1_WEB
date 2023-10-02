@@ -2,7 +2,7 @@
 
 - Pertama taman membuat file dasar terlebih dahulu dengan menggunakan html yang ada pada vscode 
 
-![gambar1](gambar/screenshoot(68).png)
+![gambar1](gambar/Screenshoot(68).png)
 
 - Kemudian coba untuk membuka file pada browser yang di inginkan saya disini menggunakan chrome 
 
