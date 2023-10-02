@@ -1,4 +1,4 @@
-# Langkah Langkah praktikum
+![Screenshot97](https://github.com/Birrhamm/lab1_web/assets/115520530/9cfc2e27-4613-466d-8aee-28a541ccf7c2)# Langkah Langkah praktikum
 
 - Pertama taman membuat file dasar terlebih dahulu dengan menggunakan html yang ada pada vscode 
 
@@ -44,7 +44,7 @@
 
 - Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
 
-![gambar1](WEB-GAMBAR/web11.png)
+![gambar1](gambar/Screenshot95.png)
 
 - Hasil dari mengubah width dengan menggunakan 200 hasil nya seperti ini
 
