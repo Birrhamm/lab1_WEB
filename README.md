@@ -31,16 +31,16 @@
 
 - Dan hasil yang dibuat saya tampulkan seperti ini sesuai yang di minta yaitu mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
-![gambar1](WEB-GAMBAR/web8.png)
+![gambar1](gambar/Screenshot83.png)
 
 - Menyisipkan atau menambahkan gambar yang di inginkan pada halaman web kita yang telah di buat dengan menggunakan perintah seperti di bawah ini 
 
-![gambar1](WEB-GAMBAR/web9.png)
+![gambar1](gambar/Screenshot84.png)
 
 
 - Hasil dari menyisipkan gambar yang telah saya lakukan tadi pada halaman web yang telah kita buat tadi hasil nya seperti ini
 
-![gambar1](WEB-GAMBAR/web10.png)
+![gambar1](gambar/Screenshot91.png)
 
 - Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
 
