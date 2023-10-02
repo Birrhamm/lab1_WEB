@@ -6,7 +6,7 @@
 
 - Kemudian coba untuk membuka file pada browser yang di inginkan saya disini menggunakan chrome 
 
-![gambar1](WEB-GAMBAR/web2.png)
+![gambar1](gambar/Screenshot70.png)
 
 - Kemudian saya membuat paragraf sederhana yang di minta seperti gambar di bawah ini
 
