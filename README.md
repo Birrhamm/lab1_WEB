@@ -40,23 +40,16 @@
 
 - Hasil dari menyisipkan gambar yang telah saya lakukan tadi pada halaman web yang telah kita buat tadi hasil nya seperti ini
 
-![gambar1](gambar/Screenshot93.png)
-
-- Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
-
 ![gambar1](gambar/Screenshot95.png)
 
-- Hasil dari mengubah width dengan menggunakan 200 hasil nya seperti ini
-
-![gambar1](WEB-GAMBAR/web12.png)
-
-- Yang terakhir kita menambah kan hyperlink pada dokumen dengan menggunakan perintah seperti di bawah ini agar lebih memudahkan 
-
-![gambar1](WEB-GAMBAR/web13.png)
+- Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
+- Yang terakhir kita menambah kan hyperlink pada dokumen dengan menggunakan perintah seperti di bawah ini agar lebih memudahkan
+  
+![gambar1](gambar/Screenshot96.png)
 
 - Hasil dari menambahkan hyperlink pada halaman web kita kemudian muncul di sebelah kiri atas sesuai dengan perintah kita 
 
-![gambar1](WEB-GAMBAR/web14.png)
+![gambar1](gambar/Screenshot97.png)
 
 
 # Pertanyaan 
