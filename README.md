@@ -2,7 +2,7 @@
 
 - Pertama taman membuat file dasar terlebih dahulu dengan menggunakan html yang ada pada vscode 
 
-![gambar1](gambar/Screenshoot(68).png)
+![gambar1](gambar/Screenshoot68.png)
 
 - Kemudian coba untuk membuka file pada browser yang di inginkan saya disini menggunakan chrome 
 
@@ -10,24 +10,24 @@
 
 - Kemudian saya membuat paragraf sederhana yang di minta seperti gambar di bawah ini
 
-![gambar1](WEB-GAMBAR/web3.png)
+![gambar1](gambar/Screenshot71.png)
 
 - Kemudian saya mencoba untuk melihat hasil yang saya buat dalam menulis paragraf tersebut dengan gambar di bawah ini 
 
-![gambar1](WEB-GAMBAR/web4.png)
+![gambar1](gambar/Screenshot72.png)
 
 - Kemudian saya mencoba untuk merubah beberapa atribut dengan menggunakan beberapa perbedaan dan juga saya menambahkan judul pada paragraf tersebut
 
-![gambar1](WEB-GAMBAR/web5.png)
+![gambar1](gambar/Screenshot74.png)
 
 - Setelah itu saya mencoba untuk membuka browser untuk melihat hasil nya dari yang di minta untuk merubah beberapa tulisan dan menambah judul
 
-![gambar1](WEB-GAMBAR/web6.png)
+![gambar1](gambar/Screenshot81.png)
 
 - Kemudian saya mencoba untuk memformat teks seperti yang fi minta saya mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
 
-![gambar1](WEB-GAMBAR/web7.png)
+![gambar1](gambar/Screenshot82.png)
 
 - Dan hasil yang dibuat saya tampulkan seperti ini sesuai yang di minta yaitu mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
